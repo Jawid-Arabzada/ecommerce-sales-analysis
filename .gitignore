@@ -1,1 +1,24 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Data Files (Commonly ignored to avoid large files)
+*.csv
 *.xlsx
+*.parquet
+*.json
+*.h5
+data/
+
+# IDE/Editor settings
+.vscode/
+.idea/

@@ -12,18 +12,18 @@ The dashboard focuses on executive sales overview and product performance analys
 ### 1️⃣ Sales Overview
 provide a quick overview of revenue, cusotmers, and orders along with trends overtime of revenue and the geographical locations.
 
-<img src="screenshots/sales-overview.png.png" alt="Alt text" width="400">
+<img src="screenshots/sales-overview.png" alt="Alt text" width="400">
 
 
 ### 2️⃣ Product Performance
 Highlights monthly revenue patterns, top revenue-generating products, and the relationship between sales quantity and revenue.
 
-<img src="screenshots/product-performance.png.png.png" alt="Alt text" width="400">
+<img src="screenshots/product-performance.png.png" alt="Alt text" width="400">
 
 ### 3️⃣ Top 10 Countries by Revenue
 Shows the leading countries contributing to total revenue, supporting market comparison and regional analysis.
 
-<img src="screenshots/top-10-countries.png.png.png" alt="Alt text" width="400">
+<img src="screenshots/top-10-countries.png.png" alt="Alt text" width="400">
 
 ### 📌 Key Insights
 •	Clear seasonality patterns in monthly revenue

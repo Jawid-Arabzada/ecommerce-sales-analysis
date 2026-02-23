@@ -2,6 +2,15 @@
 This project analyzes retail transaction data to uncover sales trends, geographic performance, and product-level insights. Python was used for data cleaning, transformation, and feature engineering, while Power BI was used to build interactive dashboards for business decision-making.
 The dashboard focuses on executive sales overview and product performance analysis, enabling stakeholders to quickly understand revenue trends, top-performing products, and country-wise sales distribution.
 
+## Business Questions :
+Which months generate the highest revenue and show clear seasonal sales patterns?
+
+Which products contribute the most to total revenue and sales volume?
+
+Which countries are the top revenue drivers for the business?
+
+How does sales quantity relate to revenue across different products?
+
 ## 🔧 Tools & Technologies
 •	Python (Pandas, NumPy, Matplotlib) – data cleaning & preparation
 •	Power BI – interactive dashboards & business insights
